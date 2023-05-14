@@ -1,0 +1,12 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "News-feeder",
+      "Group": "Server group 1",
+      "Port": 5432,
+      "Username": "nf-app-user",
+      "Host": "localhost",
+      "MaintenanceDB": "nf-app"
+    }
+  }
+}
